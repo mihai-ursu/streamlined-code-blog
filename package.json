@@ -1,0 +1,12 @@
+{
+  "name": "streamlined-code",
+  "version": "1.0.0",
+  "description": "This is a simple blog built using the Next.js framework for the frontend and Sanity.io as the backend CMS. In this blog, I will be writing about various coding topics, including web development, software engineering, and programming.",
+  "scripts": {
+    "frontend-dev": "pnpm --filter frontend dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ursu Mihai ursu.mihai.mail@gmail.com",
+  "license": "MIT"
+}
